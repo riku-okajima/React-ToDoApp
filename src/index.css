@@ -1,0 +1,68 @@
+html {
+  margin: 0;
+  font-family: sans-serif;
+}
+
+body {
+  margin: 0;
+  font-family: sans-serif,Verdana;
+}
+
+.NewTodo {
+  width: 300px;
+  margin: auto;
+}
+
+h1 {
+  font-size: 16px;
+  border-bottom: 1px solid;
+  padding: 16px 0;
+}
+
+.App {
+  width: 300px;
+  margin: auto;
+  position: relative;
+}
+
+input[type="text"] {
+  margin-bottom: 10px;
+  margin-left: 10px;
+  display: block;
+}
+
+.cmd {
+  font-size: 12px;
+  cursor: pointer;
+  color: skyblue;
+  margin-left: 5px;
+}
+
+.date {
+  margin-left: 5px;
+  padding-bottom: 5px;
+}
+
+button {
+  display: block;
+  margin: 0 0 0 auto;
+  cursor: pointer;
+}
+
+.link {
+  text-align: right;
+  text-decoration: none;
+}
+
+.link1 {
+  position: absolute;
+  margin-bottom: 20px;
+  padding: 0px;
+}
+
+.link2 {
+  position: absolute;
+  margin-top: 20px;
+  margin-bottom: 20px;
+  padding: 0px;
+}
