@@ -1,4 +1,4 @@
-import React, { useEffect, useState } from 'react'
+import React, { useState } from 'react'
 import useReactRouter from 'use-react-router'
 
 // 初期値(todos)の型を定義　リスト一覧画面（TodoList）でも使えるようにexport
